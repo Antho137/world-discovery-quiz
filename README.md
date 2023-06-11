@@ -1,4 +1,4 @@
-# World's Discovery
+# World Discovery Quiz
 
 ## Table of contents
 
@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL: https://github.com/Antho137/world_discovery
-- Live Site URL: https://antho137.github.io/world_discovery/
+- Solution URL: https://github.com/Antho137/world-discovery-quiz
+- Live Site URL: https://antho137.github.io/world-discovery-quiz/
 
 ## My process
 
